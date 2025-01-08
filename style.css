@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    background: rgb(250, 5, 5);
+    border-radius: 20px;
+    cursor: pointer;
+}
